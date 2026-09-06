@@ -1,0 +1,5 @@
+% Model:              Fuelcell_Final_analysis.mph
+% Version:            COMSOL 6.3.0.290
+% Date:               Sep 5 2026, 19:32
+% Table:              Probe Table 1 - 
+% V_cell (V)             fc.iv_h2gder1/((W_ch+W_rib)*L)/1e4 (A/m^2), Domain Probe 1
